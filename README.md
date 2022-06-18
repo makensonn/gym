@@ -1,2 +1,2 @@
 # gym
-Informational site about gym workouts.
+Informational site about weight training excercises.
